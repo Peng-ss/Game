@@ -1,0 +1,64 @@
+*{
+	margin:0;
+	padding: 0;
+}
+.span1{
+	display: block;
+	width: 100px;
+	height: 30px;
+	position: absolute;
+	top: 5px;
+	left: 36%;
+	font-weight: bold;
+	font-size: 20px;
+    display: none;
+}
+
+.div1{
+	width: 30%;
+	height: 650px;
+	background:url("../images/start.png") no-repeat;
+	background-size: 100% 100%;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.div2{
+	width: 6.8%;
+	height:4%;
+	color:#000000;
+	font-size: 140%;
+	font-weight: bold;
+	position: absolute;
+	top: 40%;
+	left: 46.6%;
+	display: none; 	
+}
+.div3{
+	width: 40%;
+	height:5%;
+	position: absolute;
+	top: 60%;
+	left: 42%;
+	display: none;
+}
+.button1{
+	display: block;
+	width: 40%;
+	height:5%;
+	opacity:0.5;
+	color:#000000;
+	font-size: 140%;
+	font-weight: bold;
+	margin-left: 30%;
+	margin-top: 120%;
+}
+.button2{
+	display: block;
+	width: 40%;
+	height:5%;
+	opacity:0.5;
+	color:#000000;
+	font-size: 140%;
+	font-weight: bold;
+
+}
